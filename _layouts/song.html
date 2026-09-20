@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<article class="song" itemscope itemtype="https://schema.org/TechArticle">
+  <h1 itemprop="headline">{{ page.title }}</h1>
+
+  {% include song-meta.html %}
+
+  <div itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <hr>
+
+  
+
+  <nav class="song-nav">
+    <div class="prev">
+      {% if page.previous %}
+        &larr; <a href="{{ page.previous.url | relative_url }}">{{ page.previous.title }}</a>
+      {% endif %}
+    </div>
+    <div class="next">
+      {% if page.next %}
+        <a href="{{ page.next.url | relative_url }}">{{ page.next.title }}</a> &rarr;
+      {% endif %}
+    </div>
+  </nav>
+</article>
