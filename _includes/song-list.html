@@ -1,5 +1,5 @@
 <ul class="song-list">
-  {% assign posts_sorted = include.songs | default: site.songs | sort: "date" | reverse %}
+  {% assign songs_sorted = include.songs | default: site.songs | sort: "date" | reverse %}
   {% for post in songs_sorted %}
   <li>
     <time datetime="{{ song.date | date_to_xmlschema }}">{{ song.date | date: "%d/%m/%Y" }}</time>
