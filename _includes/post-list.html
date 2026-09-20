@@ -2,7 +2,7 @@
   {% assign posts_sorted = include.posts | default: site.posts | sort: "date" | reverse %}
   {% for post in posts_sorted %}
   <li>
-    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d/%m/%Y" }}</time>
+    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d/%m/%Y %H:%M"" }}</time>
     &mdash; <a href="{{ post.url | relative_url }}">{{ post.title }}</a>.
   </li>
   {% endfor %}
