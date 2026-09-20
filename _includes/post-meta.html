@@ -3,7 +3,7 @@
 {% if reading_time == 0 %}{% assign reading_time = 1 %}{% endif %}
 
 <p class="meta">
-  <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d/%m/%Y" }}</time>
+  <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d/%m/%Y %H:%M" }}</time>
   &middot; {{ reading_time }} min read
   {% if page.categories and page.categories.size > 0 %}
     &middot; {{ page.categories | array_to_sentence_string }}
