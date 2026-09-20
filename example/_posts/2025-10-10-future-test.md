@@ -1,9 +1,0 @@
----
-layout: post
-title: "future test"
-date: 2025-10-10
-description: "Why per-cycle 6502 emulation costs more than per-instruction, and when the accuracy actually buys you something."
-tags: [c, emulation]
----
-
-jhbjbkbkhbkh
