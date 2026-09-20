@@ -1,25 +1,25 @@
 url: "https://example.com"
 baseurl: ""
 lang: en
-timezone: "UTC"
+timezone: "EST"
 
 title: "vlxxer"
-tagline: "Systems Programming and Graphics from Scratch"
-description: "Long-form notes on C, operating systems, emulation, and graphics written without a graphics library."
-email: jane@example.com
+tagline: "my blog"
+description: "for my party people"
+email: 
 
 favicon: /assets/images/favicon.png
 apple_touch_icon: /apple-touch-icon.png
 logo: "https://example.com/assets/images/logo.png"
 image: "https://example.com/assets/images/logo.png"
-twitter_username: janedoe
+twitter_username: 
 
-show_rss: true
-show_archive: true
+show_rss: false
+show_archive: false
 
 author:
-  name: "Jane Doe"
-  email: jane@example.com
+  name: "VL"
+  email: 
 
 social:
   - name: "GitHub"
