@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Drawing a Pixel Without a Graphics Library"
-date: 2025-11-12
-description: "What actually happens between mmap on /dev/fb0 and a lit pixel, and why the pixel is the wrong color."
+title: "Hello blog"
+date: 2026-09-20
+description: "whats up party people"
 tags: [c, graphics, linux]
 ---
 
