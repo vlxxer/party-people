@@ -3,7 +3,7 @@ baseurl: ""
 lang: en
 timezone: "UTC"
 
-title: "Jane Doe"
+title: "vlxxer"
 tagline: "Systems Programming and Graphics from Scratch"
 description: "Long-form notes on C, operating systems, emulation, and graphics written without a graphics library."
 email: jane@example.com
