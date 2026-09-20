@@ -1,9 +1,9 @@
 <ul class="song-list">
-  {% assign posts_sorted = include.posts | default: site.posts | sort: "date" | reverse %}
-  {% for post in posts_sorted %}
+  {% assign posts_sorted = include.songs | default: site.songs | sort: "date" | reverse %}
+  {% for post in songs_sorted %}
   <li>
-    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d/%m/%Y" }}</time>
-    &mdash; <a href="{{ post.url | relative_url }}">{{ post.title }}</a>.
+    <time datetime="{{ song.date | date_to_xmlschema }}">{{ song.date | date: "%d/%m/%Y" }}</time>
+    &mdash; <a href="{{ song.url | relative_url }}">{{ song.title }}</a>.
   </li>
   {% endfor %}
 </ul>
