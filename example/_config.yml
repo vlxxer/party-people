@@ -6,7 +6,7 @@ timezone: "EST"
 title: "vlxxer"
 tagline: "my blog"
 description: "for my party people"
-email: 
+email: janedoe@gmail.com
 
 favicon: /assets/images/favicon.png
 apple_touch_icon: /apple-touch-icon.png
@@ -14,12 +14,12 @@ logo: "https://example.com/assets/images/logo.png"
 image: "https://example.com/assets/images/logo.png"
 twitter_username: 
 
-show_rss: false
-show_archive: false
+show_rss: true
+show_archive: true
 
 author:
   name: "VL"
-  email: 
+  email: janedoe@gmail.com
 
 social:
   - name: "GitHub"
