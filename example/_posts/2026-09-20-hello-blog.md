@@ -1,14 +1,13 @@
 ---
 layout: post
 title: "Hello blog"
-date: 2026-09-20
-description: "whats up party people"
-tags: [c, graphics, linux]
+date: 2026-09-20 06:10
+description: "cheers to a brand new day :-)"
+tags: [log]
 ---
 
-The Linux framebuffer is the smallest interesting graphics target still
-shipping. There is no context to create, no surface to acquire, and no
-extension to query. You open a file, map it, and write bytes.
-
-vention. Everything else is scheduling and
-synchronization.
+I marvel at the complexities of coding. Sure, I had briefly dabbled with HTML back in the day, but I was unprepared to be up until 6 in the morning getting this website up and running. Man I don't know shit. I tried to make a seperate section for songs I wanted to spotlight, but that went nowhere. Man I miss SmackJeeves. They had plenty of marvelous Pokemon Mystery Dungeon comics. I remember posting some content of my own on there back in the day, though it wasn't any good. I wonder if Stupid Short Eevee Cpmics or Tales Of Elysium are still going on. 
+Holy shit I'm so hungry right now. I sat down and intended to write non stop for quite some time when the hunger monster attacked. I'll be right back.
+I'm back I shovelled some leftover Five Guys fries into my hungry hungry mouth. Didn't even bother heating them up. Didn't even feel hungry at all before one minute ago. I went over to Gainsville the other day to visit a dear friend of mine. She's got a new boyfriend, and oh we were all so happy for her. And a little worried. Now that I've met him, I can say for sure what I already suspected- he's a chill guy, but very anxious in close relationships, very insecure. I think they'd be better as friends. Anyways, he gave me one of his Vyvanse pills, and I took it this morning. Or, yesterday morning I suppose. Maybe that's why hunger hit me like a truck just then, though I did already eat earlier. Or maybe I've simply lost track of time, and I've been staring at my laptop screen all night. The Vyvanse makes me better in conversations, I think. Less prone to getting annoyed at people. But as it wore off, I did feel a most splitting headache. Not fun ! This isn't the first time someone gave me their vyvanse; the other time it worked (took some right around when I got my period, so they didn;t do shit) it didn't give me a headache as far as I recall, but it did make me feel oddly suicidal. Lord I would have preferred that over the headache. I do think Vyvanse helps me out a lot though, and if given an appropriate dosage over an appropriate timeframe, it'd probably do me much better than Atomoxotine, though I am upping my dose so we'll see if it starts to be more effective. I would like to figure all this stuff out before I move off for school. 
+I did some shopping and packing. I'll be going up to tour some places next month, so I'll do some more when I figure out exactly where I'm gonna live and whatnot. I quite look forward to it. I talked to my family about moving out, and I went shopping with my sister. Normally, I find them all very annoying, and yet whenever I'm on substances, I find talking to them fairly pleasant. I wonder if chemical balances have been ruining my relationships all this time. I wonder what it could have been like to like them all this time. 
+I wonder if I'm going to miss the beach. I want to go a few times before I leave. Feel the sun and the sand and the waves and the air. I wonder if I'll have trouble making friends. I hope not. I'm positive I'll find people I'll love. 
