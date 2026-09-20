@@ -1,6 +1,6 @@
 <ul class="song-list">
   {% assign sorted_songs = include.songs | default: site.songs | sort: "date" | reverse %}
-  {% for post in songs_sorted %}
+  {% for song in songs_sorted %}
   <li>
     <time datetime="{{ song.date | date_to_xmlschema }}">{{ song.date | date: "%d/%m/%Y" }}</time>
     &mdash; <a href="{{ song.url | relative_url }}">{{ song.title }}</a>.
